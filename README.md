@@ -38,8 +38,7 @@
 </p>
 
 ---
-
-<table align="center">
+<div align="center">
   <tr>
     <td align="center" width="50%">
         <h3>🛠️ Tech Stack</h3>
@@ -60,7 +59,7 @@
         </ul>
     </td>
   </tr>
-</table>
+</div>
 
 
 <br>
